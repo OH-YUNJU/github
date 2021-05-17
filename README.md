@@ -1,1 +1,2 @@
-# github
+# sangmyung univ. software 20
+
